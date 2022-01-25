@@ -8,3 +8,5 @@ for (let i=0; i<arr.length; i++){
     return false;
   }
 }
+
+console.log('scream')
